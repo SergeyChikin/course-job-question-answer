@@ -1,4 +1,4 @@
-package pro.sky.coursejobquestion.answer;
+package pro.sky.coursejobquestion.questionAnswer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
